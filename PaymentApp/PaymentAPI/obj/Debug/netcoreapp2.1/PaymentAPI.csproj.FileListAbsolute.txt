@@ -1,0 +1,16 @@
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\PaymentAPI.deps.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\PaymentAPI.runtimeconfig.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\PaymentAPI.runtimeconfig.dev.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\PaymentAPI.dll
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\bin\Debug\netcoreapp2.1\PaymentAPI.pdb
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.RazorAssemblyInfo.cache
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.RazorAssemblyInfo.cs
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.AssemblyInfoInputs.cache
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.AssemblyInfo.cs
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.dll
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.pdb
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPI\obj\Debug\netcoreapp2.1\PaymentAPI.csprojAssemblyReference.cache

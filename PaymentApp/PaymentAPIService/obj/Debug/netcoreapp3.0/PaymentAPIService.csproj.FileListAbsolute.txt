@@ -1,0 +1,9 @@
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\bin\Debug\netcoreapp3.0\PaymentAPIService.deps.json
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\bin\Debug\netcoreapp3.0\PaymentAPIService.dll
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\bin\Debug\netcoreapp3.0\PaymentAPIService.pdb
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\obj\Debug\netcoreapp3.0\PaymentAPIService.csprojAssemblyReference.cache
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\obj\Debug\netcoreapp3.0\PaymentAPIService.AssemblyInfoInputs.cache
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\obj\Debug\netcoreapp3.0\PaymentAPIService.AssemblyInfo.cs
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\obj\Debug\netcoreapp3.0\PaymentAPIService.dll
+C:\Users\thongchai\Desktop\PaymentApp\PaymentAPIService\obj\Debug\netcoreapp3.0\PaymentAPIService.pdb

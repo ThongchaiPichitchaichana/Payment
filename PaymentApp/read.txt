@@ -1,0 +1,8 @@
+Explanation Code
+Projectname below :
+PaymentApp2 is main webpage
+PaymentAPI is main rest api service
+
+tocheck PaymentApp2
+1.Home Controller  > method name "UploadFile "
+to upload file for csv
